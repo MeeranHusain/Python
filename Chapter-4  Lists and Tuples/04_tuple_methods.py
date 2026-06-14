@@ -14,3 +14,4 @@ print(22 in a)      # it check the value is present or not. o/p: True
 b = (1,2,5,6)
 tupleConcat = a + b     # concated the 2 tuples and created the new tuple without changing the existing tuple.
 print(tupleConcat)
+print(len(tupleConcat))       # you can check the len of your tuple
