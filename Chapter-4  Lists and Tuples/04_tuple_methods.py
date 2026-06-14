@@ -15,3 +15,10 @@ b = (1,2,5,6)
 tupleConcat = a + b     # concated the 2 tuples and created the new tuple without changing the existing tuple.
 print(tupleConcat)
 print(len(tupleConcat))       # you can check the len of your tuple
+
+person = ("Rohan", 27, "Mumbai")       # you can say this is packed tuple 
+name, age, place = person       # this is tuple unpacking.
+print(name)
+print(age)
+
+print(person[1:3])          # tuple slicing 
