@@ -18,13 +18,12 @@ marks.update({"Meeran" : 99, "Saif" : 100})   # this update the original diction
 print("Update:- ",marks)        # marks is updated and also added the Saif :100 into the dictionary.
 
 print("Get:- ",marks.get("Pappu"))       # this check the dictionary and gives you the output if key is not present/exist then it shows "None". if exist then gives you the value.
-# print(marks["Pappu"])      # this directly throw/Returns an error because it was not present into the dictionary, if exist then gives you the value.
+print(marks["Pappu"])      # this directly throw/Returns an error because it was not present into the dictionary, if exist then gives you the value.
 
 # data = {
 #     "a": 10,
 #     "b": 20
 # }
-
 # print(data.get("a"))
 # print(data.get("c"))
 # print(data.get("c", 100)) 
