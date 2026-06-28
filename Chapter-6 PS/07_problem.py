@@ -3,7 +3,7 @@
 # post = "Hey harry bhai is good Harry is very good and harry is great"
 post = input("Enter the post: ")
 
-if("Harry" in post):
+if("harry" in post.lower()):
     print("This post is talking about harry")
     
 else:
