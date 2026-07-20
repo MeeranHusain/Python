@@ -14,7 +14,7 @@ def game():
         else:
             hiscore = 0
             
-    print(f"Your score: {score}")
+    print(f"Your score: {score} and Hi-score is {hiscore}")
     if (score>hiscore or hiscore == ""):
         # write this hiscore to the file
         with open("Chapter-9 PS/hiscore.txt", "w") as f:
