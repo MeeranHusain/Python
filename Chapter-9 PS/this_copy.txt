@@ -1,0 +1,1 @@
+Hello! this is need to copy to another file this_copy.txt  
