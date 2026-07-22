@@ -6,4 +6,4 @@ with open("Chapter-9 PS/log.txt") as f:
 if ("python" in content or "Python" in content):
     print("Yes the Python is present")
 else:
-    print("Yes the Python is present")
+    print("No the Python is not present")
