@@ -8,8 +8,9 @@ class Employee:
    
     def getInfo(self):
         print(f"The language is {self.language}, and the salary is {self.salary}")
-        
-    def greet(self):
+    
+    @staticmethod
+    def greet():
         print("Good Morning")
 
 # language = input("Enter you programming language: ")
