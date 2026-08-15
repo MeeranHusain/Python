@@ -1,11 +1,10 @@
-
-🐍 Python
+# 🐍 Python
 
 Welcome to my Python learning repository!
 
 This repository contains my Python practice programs, exercises, and projects as I learn Python step by step. I regularly update this repository with new concepts and practice problems.
 
-📚 Topics Covered
+## 📚 Topics Covered
 
 * Variables & Data Types
 * Operators
@@ -23,8 +22,7 @@ This repository contains my Python practice programs, exercises, and projects as
   * ✅ Getters & Setters
   * ✅ Operator Overloading
 
-
-📊 Learning Progress
+## 📊 Learning Progress
 
 I am following the Ultimate Python Programming Handbook.
 
@@ -42,24 +40,23 @@ I am following the Ultimate Python Programming Handbook.
 - Chapter 12 – Advanced Python 1 — ✅ Completed
 - Chapter 13 – Advanced Python 2 — 🔄 In Progress
 
-📈 Overall Progress
+## 📈 Overall Progress
 
-12 / 13 Chapters Completed — 92%
+**12 / 13 Chapters Completed — 92%**
 
-"████████████░░ 92%"
+`████████████░░ 92%`
 
-🔄 Currently Learning
+## 🔄 Currently Learning
 
-Chapter 13 – Advanced Python 2
+### Chapter 13 – Advanced Python 2
 
-- 🔄 Lambda Functions — In Progress
-- ⏳ "join()" Method
-- ⏳ "format()" Method
+- 🔄 **Lambda Functions** — In Progress
+- ⏳ `join()` Method
+- ⏳ `format()` Method
 - ⏳ Map, Filter & Reduce
 - ⏳ Chapter 13 Practice Set
 
-
-🎯 Purpose
+## 🎯 Purpose
 
 * Learn Python from basics to advanced
 * Strengthen programming fundamentals
@@ -67,19 +64,19 @@ Chapter 13 – Advanced Python 2
 * Practice Object-Oriented Programming
 * Track my learning progress on GitHub
 
-🛠️ Tools
+## 🛠️ Tools
 
 * Python 3
 * Visual Studio Code
 * Git
 * GitHub
 
-📌 Repository Status
+## 📌 Repository Status
 
 🚀 This repository is actively updated as I continue learning Python and building new programs.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Meeran Husain
+**Meeran Husain**
 
 Software Developer | Python Learner
