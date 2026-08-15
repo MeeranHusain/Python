@@ -1,3 +1,4 @@
+
 🐍 Python
 
 Welcome to my Python learning repository!
@@ -7,21 +8,13 @@ This repository contains my Python practice programs, exercises, and projects as
 📚 Topics Covered
 
 * Variables & Data Types
-
 * Operators
-
 * Input / Output
-
 * Conditional Statements
-
 * Loops
-
 * Functions
-
 * Basic Python Programs
-
 * Object-Oriented Programming (OOP)
-  
   * ✅ Classes
   * ✅ Objects
   * ✅ Practice Sets
@@ -53,7 +46,7 @@ Chapter 13| Advanced Python 2| 🔄 In Progress
 
 12 / 13 Chapters Completed
 
-████████████░░  92%
+"████████████░░ 92%"
 
 🔄 Currently Learning
 
