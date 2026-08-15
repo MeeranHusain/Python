@@ -23,28 +23,28 @@ This repository contains my Python practice programs, exercises, and projects as
   * ✅ Getters & Setters
   * ✅ Operator Overloading
 
+
 📊 Learning Progress
 
 I am following the Ultimate Python Programming Handbook.
 
-Chapter| Topic| Status
-Chapter 1| Modules, Comments & pip| ✅ Completed
-Chapter 2| Variables & Datatypes| ✅ Completed
-Chapter 3| Strings| ✅ Completed
-Chapter 4| Lists & Tuples| ✅ Completed
-Chapter 5| Dictionary & Sets| ✅ Completed
-Chapter 6| Conditional Expression| ✅ Completed
-Chapter 7| Loops| ✅ Completed
-Chapter 8| Functions & Recursions| ✅ Completed
-Chapter 9| File I/O| ✅ Completed
-Chapter 10| Object Oriented Programming| ✅ Completed
-Chapter 11| Inheritance & OOP| ✅ Completed
-Chapter 12| Advanced Python 1| ✅ Completed
-Chapter 13| Advanced Python 2| 🔄 In Progress
+- Chapter 1 – Modules, Comments & pip — ✅ Completed
+- Chapter 2 – Variables & Datatypes — ✅ Completed
+- Chapter 3 – Strings — ✅ Completed
+- Chapter 4 – Lists & Tuples — ✅ Completed
+- Chapter 5 – Dictionary & Sets — ✅ Completed
+- Chapter 6 – Conditional Expression — ✅ Completed
+- Chapter 7 – Loops — ✅ Completed
+- Chapter 8 – Functions & Recursions — ✅ Completed
+- Chapter 9 – File I/O — ✅ Completed
+- Chapter 10 – Object Oriented Programming — ✅ Completed
+- Chapter 11 – Inheritance & OOP — ✅ Completed
+- Chapter 12 – Advanced Python 1 — ✅ Completed
+- Chapter 13 – Advanced Python 2 — 🔄 In Progress
 
 📈 Overall Progress
 
-12 / 13 Chapters Completed
+12 / 13 Chapters Completed — 92%
 
 "████████████░░ 92%"
 
@@ -57,6 +57,7 @@ Chapter 13 – Advanced Python 2
 - ⏳ "format()" Method
 - ⏳ Map, Filter & Reduce
 - ⏳ Chapter 13 Practice Set
+
 
 🎯 Purpose
 
