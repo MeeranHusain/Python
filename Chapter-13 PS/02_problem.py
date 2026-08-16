@@ -1,4 +1,4 @@
-# 2. Write a program to input name, marks and phone number of a student and format it using the format function like below.
+# 2. Write a program to input name, marks and phone number of a student and format it using the format function like below
 
 name = input("Enter the name of the student: ")
 marks = float(input("Enter the marks of the student: "))
