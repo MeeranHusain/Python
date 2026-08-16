@@ -38,23 +38,16 @@ I am following the Ultimate Python Programming Handbook.
 - Chapter 10 – Object Oriented Programming — ✅ Completed
 - Chapter 11 – Inheritance & OOP — ✅ Completed
 - Chapter 12 – Advanced Python 1 — ✅ Completed
-- Chapter 13 – Advanced Python 2 — 🔄 In Progress
+- Chapter 13 – Advanced Python 2 — ✅ Completed
+- MEGA PROJECT 1 — 🔄️ In Progress...
 
 ## 📈 Overall Progress
 
-**12 / 13 Chapters Completed — 92%**
+**13 / 13 Chapters Completed — 92%**
 
-`████████████░░ 92%`
+`████████████ 100%`
 
-## 🔄 Currently Learning
 
-### Chapter 13 – Advanced Python 2
-
-- 🔄 **Lambda Functions** — In Progress
-- ⏳ `join()` Method
-- ⏳ `format()` Method
-- ⏳ Map, Filter & Reduce
-- ⏳ Chapter 13 Practice Set
 
 ## 🎯 Purpose
 
