@@ -43,7 +43,7 @@ I am following the Ultimate Python Programming Handbook.
 
 ## 📈 Overall Progress
 
-**13 / 13 Chapters Completed — 92%**
+**13 / 13 Chapters Completed — 100%**
 
 `████████████ 100%`
 
