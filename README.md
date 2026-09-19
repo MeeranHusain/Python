@@ -39,7 +39,7 @@ I am following the Ultimate Python Programming Handbook.
 - Chapter 11 – Inheritance & OOP — ✅ Completed
 - Chapter 12 – Advanced Python 1 — ✅ Completed
 - Chapter 13 – Advanced Python 2 — ✅ Completed
-- MEGA PROJECT 1 — 🔄️ In Progress...
+- MEGA PROJECT 1 — https://github.com/MeeranHusain/JARVIS-VOICE-ACTIVATED-VIRTUAL-ASSISTANT.git
 
 ## 📈 Overall Progress
 
